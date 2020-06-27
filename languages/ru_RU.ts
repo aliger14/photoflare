@@ -1871,7 +1871,7 @@
     <message>
         <location filename="../src/dialogs/aboutdialog.ui" line="240"/>
         <source>Contributors</source>
-        <translation>Контрибуторы</translation>
+        <translation>Контрибьюторы</translation>
     </message>
     <message>
         <location filename="../src/dialogs/aboutdialog.cpp" line="34"/>
