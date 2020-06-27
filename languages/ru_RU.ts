@@ -316,7 +316,7 @@
         <location filename="../src/mainwindow.ui" line="282"/>
         <location filename="../src/mainwindow.ui" line="1599"/>
         <source>Sharpen</source>
-        <translation>Резкозть</translation>
+        <translation>Резкость</translation>
     </message>
     <message>
         <location filename="../src/mainwindow.ui" line="289"/>
@@ -1047,7 +1047,7 @@
         <location filename="../src/mainwindow.ui" line="1911"/>
         <location filename="../src/mainwindow.ui" line="1914"/>
         <source>Reinforce</source>
-        <translation>Усилить резкозть</translation>
+        <translation>Усилить резкость</translation>
     </message>
     <message>
         <location filename="../src/mainwindow.ui" line="1923"/>
@@ -1871,7 +1871,7 @@
     <message>
         <location filename="../src/dialogs/aboutdialog.ui" line="240"/>
         <source>Contributors</source>
-        <translation>Контрибуторы</translation>
+        <translation>Контрибьюторы</translation>
     </message>
     <message>
         <location filename="../src/dialogs/aboutdialog.cpp" line="34"/>
