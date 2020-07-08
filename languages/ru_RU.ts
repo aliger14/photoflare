@@ -78,7 +78,7 @@
     <message>
         <location filename="../src/dialogs/compressiondialog.ui" line="112"/>
         <source>Best quality</source>
-        <translation>Лучшее качество</translation>
+        <translation>Высокое качество</translation>
     </message>
     <message>
         <location filename="../src/dialogs/compressiondialog.ui" line="125"/>
